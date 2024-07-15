@@ -1,0 +1,6 @@
+framework module Pods_week5_kakaoTests {
+  umbrella header "Pods-week5_kakaoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

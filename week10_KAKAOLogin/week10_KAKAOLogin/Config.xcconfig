@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  week10_KAKAOLogin
+//
+//  Created by 이상엽 on 6/20/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+KAKAO_NATIVE_APP_KEY = 48c13e1ba01449b78f60020896cacc55
